@@ -35,7 +35,7 @@ def recv_json(sock, buffer):
 
 # =====================
 # Validate
-# =====================
+# ====================
 def is_valid_phone(phone):
     return bool(re.match(r'^\d{10}$', phone))
 

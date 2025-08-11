@@ -24,6 +24,7 @@
     <Compile Include="client.py" />
     <Compile Include="client2.py" />
     <Compile Include="client3.py" />
+    <Compile Include="client4.py" />
     <Compile Include="server.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
